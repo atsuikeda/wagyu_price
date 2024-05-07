@@ -29,12 +29,11 @@ p {
   color: #343a40;
 }
 
-@media screen and (min-width:576px) {
+@media screen and (min-width: 576px) {
   .row {
     margin-bottom: 30px;
   }
 }
-
 
 .submit-color {
   background-color: #17a2b8;
@@ -45,7 +44,7 @@ p {
 }
 
 .submit-color:hover {
-  opacity: 1.0;
+  opacity: 1;
 }
 
 .submit-center {
