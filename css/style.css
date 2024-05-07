@@ -60,6 +60,7 @@ footer {
 .card {
   border-radius: 0;
 }
+
 @media screen and (max-width: 576px) {
   #page-top {
     width: 40px;
